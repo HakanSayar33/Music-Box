@@ -10,3 +10,7 @@ In this section, was used Modern Javascript.The following features were made wit
 - Volume change
 - Song change
 - Listing of songs
+
+
+
+![Music-Box](./music-box.png "Music-Box")
